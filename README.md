@@ -39,8 +39,8 @@ The analysis focuses on four main questions:
 
 ### Customer Churn Dashboard
 
-![Customer Churn Dashboard](Q1_Churn_Dashboard.png.png)
+![Customer Churn Dashboard](Q1_Churn_Dashboard.png)
 
 ### Customer Demographics, Geography & Segments Dashboard
 
-![Customer Demographics, Geography and Segments Dashboard](Q2_Q3_Q4_Dashboard.png.png)
+![Customer Demographics, Geography and Segments Dashboard](Q2_Q3_Q4_Dashboard.png)
